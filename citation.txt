@@ -1,0 +1,10 @@
+@article{REPO358,
+    author = "Feng, Yao and Feng, Haiwen and Black, Michael J and Bolkart, Timo",
+    journal = "ACM Transactions on Graphics (ToG)",
+    number = "4",
+    pages = "1--13",
+    publisher = "ACM New York, NY, USA",
+    title = "{Learning an Animatable Detailed 3D Face Model from In-The-Wild Images}",
+    volume = "40",
+    year = "2021"
+}
