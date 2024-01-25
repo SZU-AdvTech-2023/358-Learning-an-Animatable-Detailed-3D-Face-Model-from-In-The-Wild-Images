@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5df07433-3977-4834-8049-c066acb897ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DECA/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/Doc/images/DECA_performance.png" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/Doc/images/DECA_performance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00181.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00181.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00302.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00408.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00408.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00480.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image00480.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02024.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02246.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image02246.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image04085.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/AFLW2000/image04085.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/exp/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/exp/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/teaser/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/teaser/0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/teaser/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/teaser/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/TestSamples/teaser/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/TestSamples/teaser/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/data/fixed_displacement_256.npy" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/data/fixed_displacement_256.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/data/head_template.obj" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/data/head_template.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/data/landmark_embedding.npy" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/data/landmark_embedding.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/data/uv_face_eye_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/data/uv_face_eye_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/data/uv_face_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/data/uv_face_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/datasets/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/datasets/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/datasets/detectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/datasets/detectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/deca.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/deca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/FLAME.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/FLAME.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/decoders.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/decoders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/encoders.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/encoders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/frnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/frnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/lbs.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/lbs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/models/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/models/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/lossfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/lossfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/standard_rasterize_cuda.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/standard_rasterize_cuda.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/standard_rasterize_cuda_kernel.cu" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/rasterizer/standard_rasterize_cuda_kernel.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/renderer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/renderer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/decalib/utils/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/decalib/utils/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/demos/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/demos/demo_reconstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/demos/demo_reconstruct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/demos/demo_teaser.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/demos/demo_teaser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/demos/demo_transfer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/demos/demo_transfer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/install_conda.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/install_conda.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECA/install_pip.sh" beforeDir="false" afterPath="$PROJECT_DIR$/DECA/install_pip.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DECA" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Z3aMyMGEyqmP3TE3IDRE0v5PMI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SwinTransform/Swin-Transformer&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DECA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.8 (pytorch3d)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../anaconda/envs/pytorch-cpu/Lib/site-packages/pytorch3d-0.7.0/pytorch3d-0.7.0" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../anaconda/envs/pytorch-cpu/Lib/site-packages/pytorch3d-0.7.0/pytorch3d-0.7.0/setup.py" />
+      <option name="PARAMETERS" value="install" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df07433-3977-4834-8049-c066acb897ff" name="Changes" comment="" />
+      <created>1701653173474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701653173474</updated>
+    </task>
+    <servers />
+  </component>
+</project>
